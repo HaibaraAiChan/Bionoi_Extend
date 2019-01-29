@@ -5,18 +5,21 @@ The extend version includes 6 projection directions, 4 rotation angles and 3 fli
 
 Projection direction:  
 
-         XOY+, XOY-, YOZ+, YOZ-, ZOX+, ZOX-  (1,2,3,4,5,6) 
+         XOY+, XOY-, YOZ+, YOZ-, ZOX+, ZOX-  (1,2,3,4,5,6)
+	 0 means all directions will be included
 	 
 	
 Rotate angle:  
 
           0, 90, 180, 270  (1,2,3,4)
+	  0 means all directions will be included
 	 
 Flip  direction:  
 
           original, up-down, left-right  (1,2,3)
+	  0 means all directions will be included
 	  
-### 0 means all directions will be included  
+  
 
 ## Examples  
 
