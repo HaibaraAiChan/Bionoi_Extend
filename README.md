@@ -29,4 +29,10 @@ Flip  direction:
 	
 ![100](100_1_4_3.PNG)
 
-### As the result contains 4 duplicated images, we will change it to  6 * 4 * 2 = 48 images in next step.  
+#### As the result contains 4 duplicated images, we will change it to  6 * 4 * 2 = 48 images in next step.  
+Just shown in the picture above, only keep up-down flip direction.  
+
+Flip  direction:  
+
+	original, up-down  (1,2)
+	0 means all directions will be included
