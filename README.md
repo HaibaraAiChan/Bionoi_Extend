@@ -42,4 +42,4 @@ Flip  direction:
 	or
 	./main_48.py -mol 4v94E.mol2 -out ./output/ -dpi 256 -alpha 0.9 -size 256 -proDirect 1 -rotAngle2D 0 -flip 0  
 	
-![100_2](100_1_4_2.PNG=300x70)
+![100_2](100_1_4_2.PNG)
