@@ -198,12 +198,6 @@ if __name__ == "__main__":
             flip_img_list.append(img)
 
 
-
-
-    # print("length of pro_list: ", len(proj_img_list))
-    # print("length of rotate_list: ", len(rotate_img_list))
-    # print("length of flip_list: ", len(flip_img_list))
-
     assert len(proj_img_list) == len(f_p_list)
     assert len(rotate_img_list) == len(f_r_list)*len(f_p_list)
     assert len(flip_img_list) == len(f_f_list)*len(f_r_list)*len(f_p_list)
