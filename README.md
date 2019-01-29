@@ -14,8 +14,9 @@ Rotate angle:
 Flip  direction:  
 
           original, up-down, left-right  
-#Examples  
+# Examples  
 
-./voronoi.py
-or
-./voronoi.py -mol 4v94E.mol2 -out ./output/ -dpi 120 -alpha 0.5 -size 128 -proDirect 1 -rotAngle2D 0 -flip 0
+	./voronoi.py
+	or
+	./voronoi.py -mol 4v94E.mol2 -out ./output/ -dpi 120 -alpha 0.5 -size 128 -proDirect 1 -rotAngle2D 0 -flip 0  
+	
