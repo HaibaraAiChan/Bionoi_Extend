@@ -25,7 +25,7 @@ Flip  direction:
 
 	./main.py
 	or
-	./main.py -mol 4v94E.mol2 -out ./output/ -dpi 120 -alpha 0.5 -size 128 -proDirect 1 -rotAngle2D 0 -flip 0  
+	./main.py -mol 4v94E.mol2 -out ./output/ -dpi 256 -alpha 0.9 -size 256 -proDirect 1 -rotAngle2D 0 -flip 0  
 	
 ![100](100_1_4_3.PNG)
 
@@ -36,3 +36,10 @@ Flip  direction:
 
 	original, up-down  (1,2)
 	0 means all directions will be included
+## Examples  
+
+	./main_48.py
+	or
+	./main_48.py -mol 4v94E.mol2 -out ./output/ -dpi 256 -alpha 0.9 -size 256 -proDirect 1 -rotAngle2D 0 -flip 0  
+	
+![100_2](100_1_4_2.PNG)
