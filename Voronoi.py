@@ -249,9 +249,9 @@ def voronoi_atoms(bs, cmap, colorby, bs_out=None, size=None, dpi=None, alpha=1, 
     for i, row in atoms.iterrows():
         colored_cell = matplotlib.patches.Polygon(row["polygons"],
                                                   facecolor=row['color'],
-                                                  edgecolor='black',
+                                                  edgecolor=row['color'],
                                                   alpha=alpha,
-                                                  linewidth=0)
+                                                  linewidth=0.2)
         ax.add_patch(colored_cell)
 
     # atoms.loc[:,"color"] = colors
