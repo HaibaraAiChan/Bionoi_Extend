@@ -3,8 +3,11 @@ The original version bionoi only has XOY principle direction projection.
 
 	Aligning the principal axes of 3D voxel data to XOY positive direction.   
 	Then projecting the 3D voxel to 2D images.
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="images/original.PNG" width="110">   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:arrow_right: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
-	
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="images/original.PNG" alt = "original direction" width="110">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:arrow_right: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
+
+
 
 The extend version includes 6 projection directions, 4 rotation angles and 3 flip directions, 72 images in total.  
 
@@ -47,4 +50,5 @@ Flip  direction:
 	or
 	./main_48.py -mol 4v94E.mol2 -out ./output/ -dpi 256 -alpha 0.9 -size 256 -proDirect 1 -rotAngle2D 0 -flip 0  
 	
-![100_2](images/100_1_4_2.PNG)
+![100_2](images/100_1_4_2.PNG)   
+
