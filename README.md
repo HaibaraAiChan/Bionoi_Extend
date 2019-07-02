@@ -5,7 +5,7 @@ The original version bionoi only has XOY principle direction projection.
 	Then projecting the 3D voxel to 2D images.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="images/original.PNG" alt = "original direction" width="110">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:arrow_right: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="images/right arrow.png" width="60"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
 
 
 
