@@ -3,7 +3,7 @@ The original version bionoi only has XOY principle direction projection.
 
 	Aligning the principal axes of 3D voxel data to XOY positive direction.   
 	Then projecting the 3D voxel to 2D images.
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="images/original.PNG" width="100">   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:arrow_right: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="images/original.PNG" width="110">   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:arrow_right: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   <img src="images/XOY+_pos.PNG" width="100"> 
 	
 
 The extend version includes 6 projection directions, 4 rotation angles and 3 flip directions, 72 images in total.  
