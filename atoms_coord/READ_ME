@@ -1,0 +1,3 @@
+main_atoms_3D_coords.py is used to generate .mol2 file's atom 3D coordinate from 6 different projection direction.
+                        First, rotate the voxel data to assigned direction (XOY+,XOY-,YOZ+,YOZ-,ZOX+,ZOX-)
+                        Second, get each atom coordinate after this transformation.
